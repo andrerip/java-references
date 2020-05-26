@@ -1,9 +1,9 @@
-package com.andrerip.javaref.java8;
+package com.andrerip.javaref.java8.functionalstreams;
 
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.function.Supplier;
 
-class InfiniteRange {
+class Suplier {
 	
 	static AtomicInteger atomicInteger;
 	

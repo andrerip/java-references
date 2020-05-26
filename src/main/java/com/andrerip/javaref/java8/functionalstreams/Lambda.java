@@ -1,14 +1,6 @@
-package com.andrerip.javaref.java8;
+package com.andrerip.javaref.java8.functionalstreams;
 
-
-import java.awt.event.ActionListener;
-import java.io.Serializable;
-import java.util.Comparator;
-import java.util.function.Function;
-
-import javax.swing.JButton;
-
-public class TesteLambda {
+public class Lambda {
 
 //	public static void main(String[] args) {
 //		Function<Integer, Integer> subtrai = x -> x-1;
