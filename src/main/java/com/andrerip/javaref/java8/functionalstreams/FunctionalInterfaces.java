@@ -93,6 +93,8 @@ public class FunctionalInterfaces {
 		
 		// ----------------------- Kind of functional interfaces ----------------------
 		/*
+		 * https://hyperskill.org/learn/step/3623
+		 * 
 		 * - functions accept arguments and produce results. 
 		 * - operators produce results of the same type as their arguments (a special case of function). 
 		 * - predicates return boolean values and accept any arguments (boolean-valued function).
